@@ -1,6 +1,6 @@
 # Github tutorial
 
-Om Github te gebruiken, is het aanbevolen om Git geïnstalleerd te hebben. <br>
+Om Github te gebruiken, heb je Git nodig. <br>
 Git kan je hier installeren: <br>
 https://git-scm.com/downloads <br> <br>
 <img src="img/screen1.jpg" width="50%">
