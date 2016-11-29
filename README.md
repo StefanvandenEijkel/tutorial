@@ -16,6 +16,7 @@ You can verify if the installation was successfull by opening up your command pr
 Create a folder you would like to use for your github projects.
 When your folder is created go to your command prompt and go to the folder location by using the command "cd" for example "cd C:\Users\Hilgon\Desktop\github"<br />
 After that you enter the command "git init" this makes the folder a github folder.<br />
+<img src="img/screen3.jpg" width="50%">
 <br />
 <b>4. Find a project you like to use or create your own</b><br />
 When you have found or created a github project, you click on the green button called "Clone or download" and you copy the provided link.<br />
