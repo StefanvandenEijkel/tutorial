@@ -23,7 +23,7 @@ When you have found or created a github project, you click on the green button c
 You go back to your command prompt and go to your github folder location.<br />
 Run this command "git clone copiedlink"<br />
 This will copy the entire project to your github folder.<br />
-<img src="img/screen4.jpg" width="70%"> <br>
+<img src="img/screen4.jpg"> <br>
 Voila, now you have the entire project on your workstation.<br />
 <br />
 
