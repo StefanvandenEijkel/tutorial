@@ -1,8 +1,8 @@
 # Github guide
 
 <h2>Hoe kunt u uw werkplek klaar voor je eerste GitHub project te krijgen.</h2>
-<b>1. Maak een GitHub account (als u al een kunt u doorgaan naar de volgende stap). <br /> </ B>
-Ga naar deze link: https://github.com/join?source=header-home <br />
+<b>1. Maak een GitHub account (als u al een kunt u doorgaan naar de volgende stap). <br /> </b>
+Ga naar deze link: https://github.com/join?source=header-home <br/>
 Vul de gegevens in en kies uw plan. Daarna moet je je opgegeven e-mail adres te verifiëren en voila, uw GitHub rekening gemaakt en geverifieerd.<br />
 <img src="img/screen1.jpg" width="50%">
 <br />
