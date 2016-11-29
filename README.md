@@ -10,7 +10,7 @@ Fill in the details and choose your plan. After that you have to verify your ent
 Go to this link: https://git-scm.com/downloads and download the correct file for your workstation system.<br />
 Open the file and install it<br />
 You can verify if the installation was successfull by opening up your command prompt and type "git".<br />
-<img src="2016-11-29(1).png" width="50%">
+<img src="2016-11-29 (1).png" width="50%">
 <br />
 <b>3. Create a github folder</b><br />
 Create a folder you would like to use for your github projects.
