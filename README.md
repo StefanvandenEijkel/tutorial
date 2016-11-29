@@ -33,3 +33,10 @@ Then the project will fetch the new updated files<br />
 <b>How to fork a project</b><br />
 Go to the project you want to fork and click on the fork icon (Right top of the screen). This copies the project to your own github account.<br />
 Now you can clone this project to your workstation and make your own changes.<br />
+<br />
+<b>How to make a pull request to the master project</b><br />
+You forked a project and you made some changes that you want the master project to have. You can make a pull request.<br />
+The owner of the project decides if he implents the pull request.<br />
+Go to your forked project and click on the button called "New pull request".
+Click on the button called "New pull request" and click your forked project
+<br />
